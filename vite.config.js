@@ -6,5 +6,6 @@ export default defineConfig({
  server: {
   port: 40001
  },
+ base : "/greenergreenhillminutes/"
  plugins: [vue()],
 })
