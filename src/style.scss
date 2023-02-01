@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 14px;
+}
+
+table {
+
+  th {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  td {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    vertical-align: top;
+  }
+
+}
+
+table.spacey {
+
+
+  td {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+  }
+
+}
