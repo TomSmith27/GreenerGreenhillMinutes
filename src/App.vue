@@ -64,7 +64,7 @@ const agendaItems = [
 </script>
 
 <template>
-  <div class="container mx-auto py-5">
+  <div class="container mx-auto py-5 px-8 md:px-3">
     <div class="flex justify-between items-center">
       <div>
         <span class="text-3xl font-bold text-green-700">Greener Greenhill</span>
